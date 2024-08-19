@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.7.0](https://github.com/GersonRS/modern-gitops-stack-module-kafka/compare/v2.6.0...v2.7.0) (2024-08-19)
+
+
+### 🚀 New Features
+
+* change namespace ([a3b63c0](https://github.com/GersonRS/modern-gitops-stack-module-kafka/commit/a3b63c0e8c25ba43d8ed6a623858ee5092fc5138))
+
+
+### 📚 Documentation
+
+* **terraform-docs:** generate docs and write to README.adoc ([a3e0d89](https://github.com/GersonRS/modern-gitops-stack-module-kafka/commit/a3e0d8962d1787172b5a3c092165c3fef0a5e646))
+
 ## [2.6.0](https://github.com/GersonRS/modern-gitops-stack-module-kafka/compare/v2.5.0...v2.6.0) (2024-08-19)
 
 
